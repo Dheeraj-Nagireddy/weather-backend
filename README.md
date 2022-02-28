@@ -7,7 +7,10 @@
 
 * Once an instance is created, connect it. Once the ec2 instance termanial starts
 
-* Install node.js in linux using " wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash "
+* Install node.js in linux using " wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash " if not works
+* update run sudo apt update
+* install npm (npm is the package manager for the Node JavaScript platform. It puts modules in place so that node can find them, and manages dependency conflicts intelligently.)run npm install npm -g
+* install nodejs run sudo apt-get install nodejs
 
 * to install node.js run " nvm install node "
 
